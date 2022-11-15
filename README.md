@@ -18,11 +18,11 @@ Projetos realizados durante a disciplina de React Native na residência do Serra
 
 ## Screenshots
 
-Original <br>
-![App Screenshot](https://user-images.githubusercontent.com/85909017/201953640-6b142239-aef9-42ca-af16-e751a88cf875.png)
-
 Reprodução <br>
 ![App Screenshot](https://user-images.githubusercontent.com/85909017/201955061-3f3f868b-19e7-4e8a-9426-637d85685236.png)
+
+Original <br>
+![App Screenshot](https://user-images.githubusercontent.com/85909017/201953640-6b142239-aef9-42ca-af16-e751a88cf875.png)
 
 
 
