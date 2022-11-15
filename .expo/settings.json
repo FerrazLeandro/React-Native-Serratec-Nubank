@@ -1,3 +1,6 @@
 {
-  "urlRandomness": "p19PKws"
+  "urlRandomness": "p19PKws",
+  "dev": true,
+  "minify": false,
+  "https": false
 }
